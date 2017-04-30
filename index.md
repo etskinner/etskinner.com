@@ -47,7 +47,7 @@ These resources are only available from inside my home network (come visit!):
       - If this produces an error, try "http://192.168.1.11/printers/Samsung_ML-1630_Series" instead
     3. Choose Samsung for manufacturer, and Samsung ML-1630 Series for printers
   - Windows 7:
-    1. [Download driver](downloads/ML-1630_Print_32bit.exe) and install it
+    1. [Download driver](http://www.samsungdrivers.net/samsung-ml-1630-driver/) and install it
     2. Start Menu > Devices and Printers
     3. Add a Printer > Add a network, wireless, or Bluetooth printer
     4. Click The printer I want isnt listed

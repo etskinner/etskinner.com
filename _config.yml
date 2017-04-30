@@ -5,4 +5,4 @@ description: >
 baseurl: ""
 url: "http://www.etskinner.com"
 markdown: kramdown
-exclude: [Gemfile, Gemfile.lock .gitignore README.md .git]
+exclude: [Gemfile, Gemfile.lock .gitignore README.md .git README.md]

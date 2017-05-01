@@ -36,21 +36,21 @@ These resources are available from the Internet:
   3. Launch the game and connect to the server:
      - Choose 'Play' > 'Multiplayer' > 'Connect to Server'
      - Type in "etskinner.com" and click connect
-- [This website](index.html)!
+- [This website](index.html)! [(github)](https://github.com/etskinner/www.etskinner.com)
 ### Internal
 These resources are only available from inside my home network (come visit!):
-- File share (Samba): Type "\\\\etssrv\" into windows file explorer.
+- File share (Samba): Type `\\\\etssrv\` into windows file explorer.
 - Printer (Samsung ML-1630):
   - Windows 10:
     1. Start Menu > Type Devices and Printers > Select Devices and Pritners > Click The printer I want isnt listed
-    2. Choose Select a shared printer by name > Type in "http://etssrv:631/printers/Samsung_ML-1630_Series"
-      - If this produces an error, try "http://192.168.1.11/printers/Samsung_ML-1630_Series" instead
+    2. Choose Select a shared printer by name > Type in `http://etssrv:631/printers/Samsung_ML-1630_Series`
+      - If this produces an error, try `http://192.168.1.11/printers/Samsung_ML-1630_Series` instead
     3. Choose Samsung for manufacturer, and Samsung ML-1630 Series for printers
   - Windows 7:
     1. [Download driver](http://www.samsungdrivers.net/samsung-ml-1630-driver/) and install it
     2. Start Menu > Devices and Printers
     3. Add a Printer > Add a network, wireless, or Bluetooth printer
     4. Click The printer I want isnt listed
-    5. Choose Select a shared printer by name > Type in "http://etssrv:631/printers/Samsung_ML-1630_Series"
-      - If this produces an error, try "http://192.168.1.11/printers/Samsung_ML-1630_Series" instead
+    5. Choose Select a shared printer by name > Type in `http://etssrv:631/printers/Samsung_ML-1630_Series`
+      - If this produces an error, try `http://192.168.1.11/printers/Samsung_ML-1630_Series` instead
     6. Choose Samsung for manufacturer, and Samsung ML-1630 Series for printers

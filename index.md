@@ -34,9 +34,10 @@ These resources are available from the Internet:
      - Run the install script (install.bat) that's in the folder.
        - Windows might tell you it's blocking the install script from being run. You can safely tell it to continue anyway (as long as you trust me).
   3. Launch the game and connect to the server:
-     - Choose 'Play' > 'Multiplayer' > 'Connect to Server'
-     - Type in "etskinner.com" and click connect
+     - Choose `Play` > `Multiplayer` > `Connect to Server`
+     - Type in `etskinner.com` and click connect
 - [This website](index.html)! [(github)](https://github.com/etskinner/www.etskinner.com)
+
 ### Internal
 These resources are only available from inside my home network (come visit!):
 - File share (Samba): Type `\\\\etssrv\` into windows file explorer.

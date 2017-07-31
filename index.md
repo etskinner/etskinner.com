@@ -25,6 +25,14 @@ I maintain a number of services here on my home server, as listed below:
 
 #### External
 These resources are available from the Internet:
+- Minecraft Server:
+  - In Minecraft, choose `Multiplayer` > `Add Server`
+    - Server Name: `etskinner.com`
+    - Server Address: `etskinner.com`
+    - Server Resource Packs: Prompt
+  - Click `Done`
+  - Click the entry for `etskinner.com`, then choose `Join Server`
+
 - Mumble Server:
   - [Download](https://wiki.mumble.info/wiki/Main_Page#Download_Mumble) and install Mumble
   - Join using this link: [etskinner.com:64738](mumble://etskinner.com?title=etskinner.com:64738&version=1.2.0)

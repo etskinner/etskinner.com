@@ -40,15 +40,14 @@ These resources are available from the Internet:
       - Server: etskinner.com
       - Port: 64738 (default)
 - Factorio Server:
-  1. [Switch to using the latest experimental Factorio beta](https://gyazo.com/9f1c16429953f2b02232a70bcdde5063)
-  2. [Download the mods](https://www.etskinner.com/downloads/factorio/etskinner.com-mods.zip) and install them:
+  1. [Download the mods](https://www.etskinner.com/downloads/factorio/etskinner.com-mods.zip) and install them:
      - Unzip the download (etskinner.com-mods.zip) to a folder somewhere.
      - Run the install script (install.bat) that's in the folder.
        - Windows might tell you it's blocking the install script from being run. You can safely tell it to continue anyway (as long as you trust me).
-  3. Launch the game and connect to the server:
+  2. Launch the game and connect to the server:
      - Choose `Play` > `Multiplayer` > `Connect to Server`
      - Type in `etskinner.com` and click connect
-  4. [Notify me](mailto:factorio@etskinner.com?subject=Factorio%20is%20out%20of%20date) if the server out of date
+  3. [Notify me](mailto:factorio@etskinner.com?subject=Factorio%20is%20out%20of%20date) if the server out of date
 - [This website](index.html)! [(github)](https://github.com/etskinner/www.etskinner.com)
 
 #### Internal

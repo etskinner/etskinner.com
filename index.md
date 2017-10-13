@@ -16,8 +16,9 @@ Or contact me at:
 ## 3D Printing
 
 3D printing is a hobby of mine, but I also provide 3D printing and design services to the public: 
-
-<a href="https://www.3dhubs.com/service/181948" data-3dhubs-widget="button" data-hub-id="181948" data-type="orderWidget" data-color="green" data-size="normal" data-text="Order a 3D print from me" >Order a 3D print from me</a>
+ - [Email me](mailto:3dprint@etskinner.com) for a quote
+ - 3DHubs is a more convenient way to order from me, but just be aware of [their new policy/process change that is damaging toward small hubs](https://www.reddit.com/r/3Dprinting/comments/747slw/3dhubs_is_dead/):
+<a href="https://www.3dhubs.com/service/181948" data-3dhubs-widget="button" data-hub-id="181948" data-type="orderWidget" data-color="green" data-size="normal" data-text="Order a 3D print from me on 3DHubs" >Order a 3D print from me on 3DHubs</a>
 <script>!function(a,b,c,d){var e,g=(a.getElementsByTagName(b)[0],/^http:/.test(a.location)?"http":"https");a.getElementById(d)||(e=a.createElement(b),e.id=d,e.src=g+"://d3d4ig4df637nj.cloudfront.net/w/2.0.js",e.async=!0,a.body.appendChild(e))}(document,"script",1,"h3d-widgets-js");</script>
 
 ## Server

@@ -33,13 +33,6 @@ These resources are available from the Internet:
     - Server Resource Packs: Prompt
   - Click `Done`
   - Click the entry for `etskinner.com`, then choose `Join Server`
-
-- ~~Mumble Server:~~ Mumble server is being retired. Use [Discord](https://discord.gg) instead.
-  - ~~[Download](https://wiki.mumble.info/wiki/Main_Page#Download_Mumble) and install Mumble~~
-  - ~~Join using this link: [etskinner.com:64738](mumble://etskinner.com?title=etskinner.com:64738&version=1.2.0)~~
-    - ~~Alternatively, join by inputting:~~
-      - ~~Server: etskinner.com~~
-      - ~~Port: 64738 (default)~~
 - Factorio Server:
   1. [Download the mods](https://www.etskinner.com/downloads/factorio/etskinner.com-mods.zip) and install them:
      - Unzip the download (etskinner.com-mods.zip) to a folder somewhere.

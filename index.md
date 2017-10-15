@@ -56,7 +56,7 @@ These resources are only available from inside my home network (come visit!):
   - Windows 10:
     1. Start Menu > Type Devices and Printers > Select Devices and Pritners > Click The printer I want isnt listed
     2. Choose Select a shared printer by name > Type in `http://etssrv:631/printers/Samsung_ML-1630_Series`
-      - If this produces an error, try `http://192.168.1.11/printers/Samsung_ML-1630_Series` instead
+      - If this produces an error, try `http://192.168.1.11:631/printers/Samsung_ML-1630_Series` instead
     3. Choose Samsung for manufacturer, and Samsung ML-1630 Series for printers
   - Windows 7:
     1. [Download driver](http://www.samsungdrivers.net/samsung-ml-1630-driver/) and install it
@@ -64,5 +64,5 @@ These resources are only available from inside my home network (come visit!):
     3. Add a Printer > Add a network, wireless, or Bluetooth printer
     4. Click The printer I want isnt listed
     5. Choose Select a shared printer by name > Type in `http://etssrv:631/printers/Samsung_ML-1630_Series`
-      - If this produces an error, try `http://192.168.1.11/printers/Samsung_ML-1630_Series` instead
+      - If this produces an error, try `http://192.168.1.11:631/printers/Samsung_ML-1630_Series` instead
     6. Choose Samsung for manufacturer, and Samsung ML-1630 Series for printers

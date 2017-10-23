@@ -54,7 +54,7 @@ These resources are only available from inside my home network (come visit!):
   4. Click 'Play'
 - Printer (Samsung ML-1630):
   - Windows 10:
-    1. Start Menu > Type Devices and Printers > Select Devices and Pritners > Click The printer I want isnt listed
+    1. Start Menu > Type Devices and Printers > Select Devices and Printers > Click The printer I want isnt listed
     2. Choose Select a shared printer by name > Type in `http://etssrv:631/printers/Samsung_ML-1630_Series`
       - If this produces an error, try `http://192.168.1.11:631/printers/Samsung_ML-1630_Series` instead
     3. Choose Samsung for manufacturer, and Samsung ML-1630 Series for printers

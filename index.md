@@ -5,7 +5,6 @@ layout: default
 # Ethan T. Skinner
 Welcome! I'm a mechanical engineer in Rochester, MN, and this is my personal website. Find me on:
 - [LinkedIn](http://lnkd.in/v55KCt)
-- [Google+](https://plus.google.com/+EthanSkinner0)
 - [Facebook](https://www.facebook.com/etskinner)
 
 Or contact me at:

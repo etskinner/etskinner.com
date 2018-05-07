@@ -21,24 +21,19 @@ Or contact me at:
 <script>!function(a,b,c,d){var e,g=(a.getElementsByTagName(b)[0],/^http:/.test(a.location)?"http":"https");a.getElementById(d)||(e=a.createElement(b),e.id=d,e.src=g+"://d3d4ig4df637nj.cloudfront.net/w/2.0.js",e.async=!0,a.body.appendChild(e))}(document,"script",1,"h3d-widgets-js");</script>
 
 ## Notary
-I am a registered notary public in Minnesota (Olmsted County). My services are free, within reason. Please [email me](mailto:notary@etskinner.com) to arrange a notarization.
+I am a [registered notary public](https://notary.sos.state.mn.us/Notary/NotaryDetails?notaryMasterId=038fca28-1772-e711-8180-00155d01c6c6) in Minnesota (Olmsted County). My services are free, within reason. Please [email me](mailto:notary@etskinner.com) to arrange a notarization.
+
+---
 
 ## Server
 I maintain a number of services here on my home server, as listed below:
 
-#### External
 These resources are available from the Internet:
 - [This website](index.html)! [(github)](https://github.com/etskinner/www.etskinner.com)
 - [Plex](http://plex.etskinner.com/) - Ask me for access
 
-#### Internal
 These resources are only available from inside my home network (come visit!):
-- File share (Samba): Type `\\etssrv\` into windows file explorer.
-- Gaming stream:
-  1. [Download](https://www.videolan.org/vlc/index.html) and install, and open VLC Media Player
-  2. Go to 'Media' > 'Open network stream' 
-  3. Type in (or copy-paste) `rtmp://etssrv/live/etskinner`
-  4. Click 'Play'
+- File share (Samba): Type `\\etssrv\` into the File Explorer in Windows.
 - Printer (Samsung ML-1630):
   - Windows 10:
     1. Start Menu > Type 'Printers' > 'Printers and Scanners' > Click 'Add a printer or scanner' > Click The printer I want isnt listed (it will take a second to show up)

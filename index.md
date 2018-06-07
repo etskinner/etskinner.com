@@ -48,3 +48,7 @@ These resources are only available from inside my home network (come visit!):
     5. Choose Select a shared printer by name > Type in `http://etssrv:631/printers/Samsung_ML-1630_Series`
       - If this produces an error, try `http://10.0.1.1:631/printers/Samsung_ML-1630_Series` instead
     6. Choose Samsung for manufacturer, and Samsung ML-1630 Series for printers
+    
+    ---
+    
+    Currently hosting on Github during move.

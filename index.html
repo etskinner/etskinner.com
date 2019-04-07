@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A personal website for Ethan T. Skinner, a mechanical engineer in Eagan, MN">
+    <title>Ethan T. Skinner</title>
+    <style>
+body{
+  margin:1em auto;
+  max-width:40em;
+  padding:0 .62em;
+  font:1.2em/1.62em sans-serif;
+}
+h1,h2,h3 {
+  line-height:1.2em;
+}
+ul,ol {
+  padding-left: 1.5em;
+  margin-left: 0;
+}
+code {
+  font: 1.2em/1.62em monospace;
+  background-color: #eff0f1;
+}
+    </style>
+  </head>
+  <body>
+    <article>
+      <h1 id="ethan-t-skinner">Ethan T. Skinner</h1>
+      <p>Welcome! I’m a mechanical engineer in Eagan, MN, and this is my personal website. Find me on:</p>
+
+      <ul>
+	<li><a href="http://lnkd.in/v55KCt">LinkedIn</a></li>
+	<li><a href="https://www.facebook.com/etskinner">Facebook</a></li>
+      </ul>
+
+      <p>Or contact me at:</p>
+
+      <ul>
+	<li><a href="mailto:ethan@etskinner.com">ethan@etskinner.com</a></li>
+      </ul>
+
+      <hr />
+
+      <h2 id="d-printing">3D Printing</h2>
+
+      <p>3D printing is a hobby of mine, but I also provide 3D printing and design services to the public. <a href="mailto:3dprint@etskinner.com">Email me</a> for a quote.</p>
+
+      <h2 id="notary">Notary</h2>
+
+      <p>I am a <a href="https://notary.sos.state.mn.us/Notary/NotaryDetails?notaryMasterId=038fca28-1772-e711-8180-00155d01c6c6">registered notary public</a> in Minnesota. My services are free, within reason. Please <a href="mailto:notary@etskinner.com">email me</a> to arrange a notarization.</p>
+
+      <hr />
+
+      <h2 id="server">Server</h2>
+      <p>I maintain a number of services here on my home server, as listed below:</p>
+
+      <p>These resources are available from the Internet:</p>
+
+      <ul>
+	<li><a href="index.html">This website</a>! <a href="https://github.com/etskinner/www.etskinner.com">(github)</a></li>
+	<li><a href="https://plex.etskinner.com/">Plex</a> - Ask me for access</li>
+      </ul>
+
+      <p>These resources are only available from inside my home network (come visit!):</p>
+
+      <ul>
+	<li>File share (Samba): Type <code>\\etssrv\</code> into the File Explorer in Windows.</li>
+	<li>Printer (Samsung ML-1630):
+	  <ul>
+	    <li>Windows 10:
+	      <ol>
+		<li>Start Menu &gt; Type ‘Printers’ &gt; ‘Printers and Scanners’</li>
+		<li>Click ‘Add a printer or scanner’ &gt; Click The printer I want isnt listed (it will take a second to show up)</li>
+		<li>Choose Select a shared printer by name &gt; Type in <code>http://etssrv:631/printers/Samsung_ML-1630_Series</code>
+		  <ul>
+		    <li>If this produces an error, try <code class="highlighter-rouge">http://10.0.1.1:631/printers/Samsung_ML-1630_Series</code> instead</li>
+		  </ul>
+		  <li>Choose Samsung for manufacturer, and Samsung ML-1630 Series for printers</li>
+	      </ol>
+		</li>
+		<li>Windows 7:
+		  <ol>
+		    <li><a href="http://www.samsungdrivers.net/samsung-ml-1630-driver/">Download driver</a> and install it</li>
+		    <li>Start Menu &gt; Devices and Printers</li>
+		    <li>Add a Printer &gt; Add a network, wireless, or Bluetooth printer</li>
+		    <li>Click The printer I want isnt listed</li>
+		    <li>Choose Select a shared printer by name &gt; Type in <code>http://etssrv:631/printers/Samsung_ML-1630_Series</code>
+		      <ul>
+			<li>If this produces an error, try <code class="highlighter-rouge">http://10.0.1.1:631/printers/Samsung_ML-1630_Series</code> instead</li>
+		      </ul>
+		      <li>Choose Samsung for manufacturer, and Samsung ML-1630 Series for printers</li>
+		  </ol>
+		    </li>
+	  </ul>
+		</li>
+      </ul>
+    </article>
+  </body>
+</html>

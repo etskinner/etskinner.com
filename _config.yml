@@ -1,8 +1,0 @@
-title: Ethan T. Skinner
-email: ethan@etskinner.com
-description: >
-  A personal website for Ethan T. Skinner, a mechanical engineer in Rochester, MN
-baseurl: ""
-url: "http://www.etskinner.com"
-markdown: kramdown
-exclude: [Gemfile, Gemfile.lock .gitignore README.md .git README.md]

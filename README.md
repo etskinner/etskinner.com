@@ -1,4 +1,2 @@
 # www.etskinner.com
-www.etskinner.com is a personal website for Ethan T. Skinner, a mechanical engineer in Eagan, MN. It is hosted on his home server.
-
-[//]: # (There is also a [Github Pages mirror]\(https://etskinner.github.io/www.etskinner.com/\) generated from this repository.)
+www.etskinner.com is a personal website for Ethan T. Skinner, a mechanical engineer in Burnsville, MN. It is hosted on Netlify.
